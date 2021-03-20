@@ -1,0 +1,1 @@
+# nuxt-vuetify-i18n
